@@ -1,0 +1,15 @@
+/Users/denashivanandareddypitta/Projects/inheritance/stringandstringbuilder/bin/Release/net6.0/stringandstringbuilder
+/Users/denashivanandareddypitta/Projects/inheritance/stringandstringbuilder/bin/Release/net6.0/stringandstringbuilder.deps.json
+/Users/denashivanandareddypitta/Projects/inheritance/stringandstringbuilder/bin/Release/net6.0/stringandstringbuilder.runtimeconfig.json
+/Users/denashivanandareddypitta/Projects/inheritance/stringandstringbuilder/bin/Release/net6.0/stringandstringbuilder.dll
+/Users/denashivanandareddypitta/Projects/inheritance/stringandstringbuilder/bin/Release/net6.0/stringandstringbuilder.pdb
+/Users/denashivanandareddypitta/Projects/inheritance/stringandstringbuilder/obj/Release/net6.0/stringandstringbuilder.csproj.AssemblyReference.cache
+/Users/denashivanandareddypitta/Projects/inheritance/stringandstringbuilder/obj/Release/net6.0/stringandstringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denashivanandareddypitta/Projects/inheritance/stringandstringbuilder/obj/Release/net6.0/stringandstringbuilder.AssemblyInfoInputs.cache
+/Users/denashivanandareddypitta/Projects/inheritance/stringandstringbuilder/obj/Release/net6.0/stringandstringbuilder.AssemblyInfo.cs
+/Users/denashivanandareddypitta/Projects/inheritance/stringandstringbuilder/obj/Release/net6.0/stringandstringbuilder.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/inheritance/stringandstringbuilder/obj/Release/net6.0/stringandstringbuilder.dll
+/Users/denashivanandareddypitta/Projects/inheritance/stringandstringbuilder/obj/Release/net6.0/refint/stringandstringbuilder.dll
+/Users/denashivanandareddypitta/Projects/inheritance/stringandstringbuilder/obj/Release/net6.0/stringandstringbuilder.pdb
+/Users/denashivanandareddypitta/Projects/inheritance/stringandstringbuilder/obj/Release/net6.0/stringandstringbuilder.genruntimeconfig.cache
+/Users/denashivanandareddypitta/Projects/inheritance/stringandstringbuilder/obj/Release/net6.0/ref/stringandstringbuilder.dll
